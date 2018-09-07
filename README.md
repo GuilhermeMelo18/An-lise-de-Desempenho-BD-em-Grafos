@@ -1,8 +1,9 @@
-# Desempenho-de-BD-em-Grafos
-O projeto proposto tem por objetivo demonstrar métodos para análise de desempenho de bancos de dados orientados a grafos. 
-Desta forma o presente trabalho apresenta a análise da performance e o comportamento do banco de dados em grafos Neo4j, quando submetido a cargas de consultas em diferentes conjuntos de dados.
+# Graph DB Performance
 
-## Pré-requisitos
+The proposed project aims to demonstrate methods for performance analysis of graph oriented databases.
+In this way the present work presents the analysis of the performance and the behavior of the database in graphs Neo4j, when submitted to loads of queries in different sets of data.
+
+## Prerequisites
 
 * [Neo4J](https://neo4j.com/download/)
 * [Java SE Development Kit 8](http://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html)
@@ -10,17 +11,17 @@ Desta forma o presente trabalho apresenta a análise da performance e o comporta
 ## Getting Started
 
 
-### Instalação
+### Installing
 
-* Baixar e instalar o Neo4J.
-* Criar um Novo Banco de Dados sem Autenticação no Neo4J.
-* Executar Banco de Dados Criado.
-* Executar Projeto, Populando o Banco de Dados.
-* Executar Consultas no Navegador do Neo4J.
+* Download and Install Neo4J DB.
+* Create a new Neo4J database, without authentication.
+* Run the created database.
+* Run the Project, populating the database (App.java).
+* Run Queries in the Neo4J IDE.
 
-### Artigo
+### Article
 
-* Artigo (https://drive.google.com/open?id=1YGMvII8Z9iWUz3Vj4byMRQcU7Sw4XOat)
+* Article (https://drive.google.com/open?id=1YGMvII8Z9iWUz3Vj4byMRQcU7Sw4XOat)
 
 
 ## License
